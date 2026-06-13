@@ -3,8 +3,8 @@
 Use the table of contents below to read through the chapters.
 
 ## 📖 Table of Contents
-* [Chapter 1: Experiences With Schoolchildren](chapters/chapter-1.md)
-* [Chapter 2: Next Steps](chapters/chapter-2.md)
+* [Chapter 1: Experiences With Schoolchildren](experiences_with_schoolchildren.md)
+* [Chapter 2: Myopia or Near-Sight](chapters/chapter-2.md)
 
 ---
 [⬅️ Back to Main Library](../index.md)
