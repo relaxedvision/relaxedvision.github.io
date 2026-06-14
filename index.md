@@ -6,5 +6,5 @@ These books are out-of-print and free to read. I'm providing them here for prese
 
 ### 1. [Stories From the Clinic](./stories_from_the_clinic/index.md)
 A brief, one-sentence description of what your first book is about.
-* Download: [EPUB](./ebook-one/assets/book.epub) | [PDF](./ebook-one/assets/book.pdf)
+(Not Available yet)* Download: [EPUB](./ebook-one/assets/book.epub) | [PDF](./ebook-one/assets/book.pdf)
 
